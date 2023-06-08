@@ -14,8 +14,13 @@
     transform-origin: bottom;
 }
 h1{
-    margin: 0px;
-    padding: 0px;
+   	margin: 0px;
+	padding: 0px;
+	color: #990c08;
+	position: absolute;
+	top: 300px;
+	left: 160px;
+	text-align: center;
 }
 #center{
 	padding:10px;
